@@ -5,3 +5,4 @@ The Crypto Coins are presented through an API.
 In this project each Crypto Coin is presented along with its current data.
 In addition, there is an option of selecting up to five coins which are then displayed on a graph that is automatically refreshed and updated every two seconds. 
 
+https://raz-n-oren.github.io/cryptoCurrency/
